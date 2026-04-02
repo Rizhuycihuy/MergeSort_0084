@@ -29,4 +29,13 @@ void input(){
     }    
 } 
 
-void mergeSort(int low, int high)
+void mergeSort(int low, int high){
+    
+    if (low >= high){
+        return;
+    }
+    
+    
+    
+
+
